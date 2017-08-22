@@ -1,0 +1,17 @@
+global:
+  version: VERSION
+  css:
+    theme:
+      css/photographer.css: {}
+      css/juicebox.css: {}
+  js:
+    js/photographer.js: {}
+    js/juicebox.js: {}
+
+fonts:
+  css:
+    theme:
+      fonts/juicebox.eot: {}
+      fonts/juicebox.svg: {}
+      fonts/juicebox:ttf: {}
+      fonts/juicebox.woff: {}
